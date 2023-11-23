@@ -149,3 +149,76 @@ padding: 15px;
 font-size: 25px;
 font-family: 'Times New Roman', Times, serif;
 }
+//
+body{
+    background-color: rgb(167, 167, 167);
+    color: aliceblue;
+}
+#tteett{
+    max-width: 300px;
+    max-height: 50px;
+}
+#contsuv{
+    margin: auto;
+    background: url(pexels-athena-2582937.jpg);
+    width: 600px;
+    padding: 30px;
+    background-size: contain;
+    border-radius: 24px;
+    
+}
+#subcont{
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.63);
+    padding: 10px;
+    border-radius: 16px;
+}
+//
+body{
+    background-color: rgb(85, 85, 85);
+    color: aliceblue;
+   }
+   #cln{
+    border-radius: 24px;
+    margin: auto;
+    align-items: center;
+    background: url(pexels-pixabay-60504.jpg);
+    background-size: cover;
+    padding: 20px;
+    width: 300px;
+    height: 400px;
+   }
+
+   input[type='name'], input[type='email'], input[type='password']{
+    margin-left: 35px;
+    align-items: center;
+    border: none; 
+    width: 230px;
+    height: 40px;
+    border-radius: 16px;
+    background-color: rgba(240, 248, 255, 0.555);
+   }
+   #info1{
+    margin-left: 10px;
+   }
+   #btnad{
+    border: 2px solid rgb(4, 148, 148);
+    border-radius: 16px;
+    margin-left: 60px;
+    font-size: 18px;
+    padding: 5PX;
+    background-color: rgb(4, 148, 148);
+    color: aliceblue;
+    transition: 1s;
+    
+   }
+   #btnad:hover{
+    transition: 1s;
+    color: rgb(109, 109, 109);
+    background-color: aqua;
+    border: 2px solid aqua;
+   }
+   img{
+    margin-left: 50px;
+    width: 200px;
+   }
